@@ -1,0 +1,35 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.home-container > div {
+    padding: 20px;
+    text-align: center;
+}
+
+.logo-home {
+    height: 79px;
+    text-align: center;
+}
+
+.image-left {
+    height: 458px;
+}
+
+.image-right {
+    height: 515px;
+}
+
+.button-get-started {
+    position: relative;
+    top: 50px;
+    padding: 14px 45px;
+    background: #0078d4;
+    color: white;
+    font-weight: 700;
+    border-radius: 2px;
+    /* box-shadow: 0px 2px 4px -0.7px rgb(0 0 0 / 25%); */
+    cursor: pointer;
+}

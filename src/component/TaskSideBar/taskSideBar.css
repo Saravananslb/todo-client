@@ -1,0 +1,20 @@
+.task-side-bar {
+    background-color: #f5f5f5;
+    /* padding: 10px; */
+}
+
+.task-side-bar div {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.task-side-bar div:hover {
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+.selected {
+    background-color: #ffffff;
+    color: #465efc;
+}

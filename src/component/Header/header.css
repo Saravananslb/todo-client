@@ -1,0 +1,20 @@
+.todo-header-container {
+    background-color: #0078D7;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    height: 48px;
+    color: #ffffff;
+}
+
+.todo-header-container div {
+    position: relative;
+    top: 8px;
+    margin-left: 30px;
+}
+
+.todo-header-container div input {
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    width: 50%;
+}
